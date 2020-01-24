@@ -1,2 +1,2 @@
 # MyTravelBook
-powered by Android
+Android App
